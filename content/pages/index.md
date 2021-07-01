@@ -7,11 +7,10 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: |+
+    content: |
       # De vraies et belles chaussures jusqu'à votre porte
 
-      Trouvez votre style parmi un large choix d'articles.
-
+      Trouvez votre style parmi un large choix d'articles
     actions:
       - title: See all items
         url: /store
