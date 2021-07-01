@@ -12,7 +12,7 @@ sections:
 
       Trouvez votre style parmi un large choix d'articles
     actions:
-      - title: See all items
+      - title: Voir tous les articles
         url: /store
         arrow: true
         style: primary
